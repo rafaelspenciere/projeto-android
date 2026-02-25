@@ -20,6 +20,10 @@
     --fonte-android: 'Android', sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 * {
     margin: 0px;
     padding: 0px;
