@@ -188,9 +188,11 @@ aside > ul {
 }
 
 footer {
+    font-family: var(--fonte-padrao);
     background-color: var(--cor5);
     color: white;
     text-align: center;
     font-size: 0.8em;
     padding: 5px;
+    font-weight: bold;
 }
